@@ -9,6 +9,8 @@
 
 The Anaconda distribution of Python should be the only necessary thing required to run the code here. It should run without issues when using Python 3.
 
+The libraries used include numpy, pandas, matplotlib, time, StandardScaler, train_test_split, GridSearchCV, AdaBoostClassifier, accuracy_score, recall_score, precision_score, and f1_score.
+
 ## Project Motivation<a name="motivation"></a>
 
 ### Business Understanding
