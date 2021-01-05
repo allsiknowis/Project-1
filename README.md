@@ -12,7 +12,7 @@ The Anaconda distribution of Python should be the only necessary thing required 
 
 ## Project Motivation<a name="motivation"></a>
 
-# Business Understanding
+### Business Understanding
 For this project, I was interestested in using Stackoverflow's 2017 Annual Developer Survey to look at the data regarding:
 
 1. What proportion of respondents work from home most of the time?
