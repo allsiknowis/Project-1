@@ -14,9 +14,9 @@ The Anaconda distribution of Python should be the only necessary thing required 
 ### Business Understanding
 For this project, I was interestested in using Stackoverflow's 2017 Annual Developer Survey to look at the data regarding whether people who mainly work from home report liking or disliking their jobs, along with whether these same people feel they are well paid. In other words, whether working from home is worth it. To do this, I asked several questions:
 
-1. What proportion of respondents work from home most of the time?
-2. What proportion of respondents like their jobs?
-3. What proportion of respondents think they are well paid?
+1. How many people work from home?
+2. How many people like their jobs?
+3. How many people think they are well paid?
 4. What proportion of respondents that mostly work from home like their jobs?
 5. What proportion of respondents that mostly work from home and like their jobs feel well paid?
 
