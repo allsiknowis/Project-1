@@ -26,7 +26,7 @@ The data for this project came from Stack Overflow and comprises both the survey
 Udacity owns the full set of files related to this project, so I have not made them publicly available here, but parts of the analysis regarding this data can be viewed in the project.
 
 ### Data Preparation
-During data preparation, I gathered and assessed the dataset. Next, I cleaned the data, paying particular attention to the columns on which my project focused, and using methods available in the Numpy and Pandas Python libraries.
+During data preparation, I gathered and assessed the dataset. Next, I cleaned the data, paying particular attention to the columns on which my project focused, and using methods available in the Numpy and Pandas Python libraries. In particular, I dropped rows with missing values in the relevant columns I examined from the dataset.
 
 ### Data Modeling
 Although my project does not focus on modelling, I included an AdaBoost Classifier at the end of the project which utilizes GridSearchCV to tune the model's hyperparameters for an optimal model. My goal was to see how well the data could be used to predict whether a person could be classified as liking their job.
