@@ -24,7 +24,7 @@ Udacity owns the full set of files related to this project, so I have not made t
 
 
 ## File Descriptions <a name="files"></a>
-There is one notebook available here that logically shows the work related to the questions I set out to answer. Markdown cells were used to indicate the reason for the code that follows.
+There is one notebook available here that logically shows the work related to the questions I set out to answer. Markdown cells and comments are used to indicate the reason for the code that follows.
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
