@@ -32,7 +32,7 @@ During data preparation, I gathered and assessed the dataset. Next, I cleaned th
 Although my project does not focus on modelling, I included an AdaBoost Classifier at the end of the project which utilizes GridSearchCV to tune the model's hyperparameters for an optimal model. My goal was to see how well the data could be used to predict whether a person could be classified as liking their job.
 
 ### Evaluation of the Results
-The results of the analysis indicate that, of the respondents who reported working from home most of the time, about 80% reported scores which show that they like their jobs. Additionally, of the proportion of people who reported both working from home most of the time and liking their jobs, about half of them stated that they believe themselves to be well paid. In other words, for them, working from home was worth it.
+The results of the analysis indicate that, of the respondents who reported working from home most of the time, about 80% reported scores which show that they like their jobs. Additionally, of the proportion of people who reported both working from home most of the time and liking their jobs, a little more than half of them stated that they believe themselves to be well paid. In other words, for them, working from home was worth it.
 
 My findings as a result of the code can be found at the Medium post [here](https://steveellingson.medium.com/happy-with-home-work-bf0e42d02ff3).
 
